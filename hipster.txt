@@ -1,8 +1,0 @@
-Lorem ipsum dolor amet kickstarter neutra umami narwhal, gochujang thundercats synth actually cardigan etsy keffiyeh. Succulents celiac paleo, meditation heirloom slow-carb freegan four loko pok pok air plant beard. Jean shorts prism craft beer messenger bag godard flannel, beard asymmetrical. Shoreditch la croix polaroid, lumbersexual narwhal activated charcoal +1. Freegan flexitarian sustainable venmo jean shorts YOLO vaporware.
-
-Hello there.  I am adding some new text to learn changes.
-I am excited to do this.  Let's learn git so we can git this learning completed!.
-
-This is a third night of editing this file.  Just adding new text to learn how to edit forms using Git.
-
-Additional changes to see how Git is affected by changing the files in a staging area.
